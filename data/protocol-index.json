@@ -1,0 +1,1501 @@
+{
+  "metadata": {
+    "title": "Clinical Protocol Reference - Individual Protocol Pack",
+    "version": "v0.5",
+    "lastUpdated": "2026-06-12",
+    "description": "One protocol card = one replaceable PDF file. Built for a PWA viewer where individual protocols can be replaced without rebuilding the whole pack.",
+    "safetyNotice": "Reference only. Use within training, authorisation and supervision. Does not replace clinical judgement, source protocols, reachback, local policy, command direction or evacuation."
+  },
+  "entries": [
+    {
+      "id": "about-safety-scope",
+      "title": "About / Safety / Scope",
+      "category": "Reference",
+      "section": "reference",
+      "file": "docs/reference/about-safety-scope.pdf",
+      "fullPackPages": [
+        1
+      ],
+      "pageCount": 1,
+      "tags": [
+        "safety",
+        "scope",
+        "reference",
+        "version",
+        "clinical verification"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "source-contents",
+      "title": "Source Contents",
+      "category": "Reference",
+      "section": "reference",
+      "file": "docs/reference/source-contents.pdf",
+      "fullPackPages": [
+        5
+      ],
+      "pageCount": 1,
+      "tags": [
+        "contents",
+        "source",
+        "reference"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "common-abbreviations",
+      "title": "Common Abbreviations",
+      "category": "Reference",
+      "section": "reference",
+      "file": "docs/reference/common-abbreviations.pdf",
+      "fullPackPages": [
+        6
+      ],
+      "pageCount": 1,
+      "tags": [
+        "abbreviations",
+        "glossary",
+        "reference"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "tactical-field-care-march",
+      "title": "Tactical Field Care / MARCH",
+      "category": "Trauma",
+      "section": "core-protocols",
+      "file": "docs/trauma/tactical-field-care-march.pdf",
+      "fullPackPages": [
+        7
+      ],
+      "pageCount": 1,
+      "tags": [
+        "MARCH",
+        "MARCHH",
+        "primary survey",
+        "massive haemorrhage",
+        "airway",
+        "respiration",
+        "circulation",
+        "head",
+        "heat",
+        "packaging"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "prolonged-field-care",
+      "title": "Prolonged Field Care",
+      "category": "Trauma",
+      "section": "core-protocols",
+      "file": "docs/trauma/prolonged-field-care.pdf",
+      "fullPackPages": [
+        8
+      ],
+      "pageCount": 1,
+      "tags": [
+        "PFC",
+        "prolonged field care",
+        "evacuation",
+        "monitoring",
+        "documentation",
+        "wound care",
+        "resuscitation"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "traumatic-cardiac-arrest",
+      "title": "Traumatic Cardiac Arrest",
+      "category": "Trauma",
+      "section": "core-protocols",
+      "file": "docs/trauma/traumatic-cardiac-arrest.pdf",
+      "fullPackPages": [
+        9,
+        10
+      ],
+      "pageCount": 2,
+      "tags": [
+        "TCA",
+        "traumatic cardiac arrest",
+        "HOTT",
+        "hypovolaemia",
+        "oxygenate",
+        "tension",
+        "tamponade",
+        "ROSC",
+        "thoracotomy"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "traumatic-haemorrhage-shock-phbt",
+      "title": "Traumatic Haemorrhage / Shock / PHBT",
+      "category": "Trauma",
+      "section": "core-protocols",
+      "file": "docs/trauma/traumatic-haemorrhage-shock-phbt.pdf",
+      "fullPackPages": [
+        11,
+        12
+      ],
+      "pageCount": 2,
+      "tags": [
+        "haemorrhage",
+        "hemorrhage",
+        "bleeding",
+        "shock",
+        "TXA",
+        "blood products",
+        "PHBT",
+        "pelvic binder",
+        "permissive hypotension",
+        "transfusion"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "tourniquet-downgrade-conversion",
+      "title": "Tourniquet Downgrade / Conversion",
+      "category": "Trauma",
+      "section": "core-protocols",
+      "file": "docs/trauma/tourniquet-downgrade-conversion.pdf",
+      "fullPackPages": [
+        12
+      ],
+      "pageCount": 1,
+      "tags": [
+        "tourniquet",
+        "TQ",
+        "CAT",
+        "downgrade",
+        "conversion",
+        "wound packing",
+        "isotonic fluids"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "blood-transfusion-reaction",
+      "title": "Blood Transfusion Reaction",
+      "category": "Trauma",
+      "section": "core-protocols",
+      "file": "docs/trauma/blood-transfusion-reaction.pdf",
+      "fullPackPages": [
+        13
+      ],
+      "pageCount": 1,
+      "tags": [
+        "transfusion",
+        "blood",
+        "reaction",
+        "PHBT",
+        "anaphylaxis",
+        "allergy"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "burns",
+      "title": "Burns",
+      "category": "Trauma",
+      "section": "core-protocols",
+      "file": "docs/trauma/burns.pdf",
+      "fullPackPages": [
+        20,
+        21
+      ],
+      "pageCount": 2,
+      "tags": [
+        "burns",
+        "thermal",
+        "chemical",
+        "radiation",
+        "fluid",
+        "escharotomy",
+        "analgesia"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "burns-rule-of-10s",
+      "title": "Burns Fluid Resuscitation / Rule of 10s",
+      "category": "Trauma",
+      "section": "core-protocols",
+      "file": "docs/trauma/burns-rule-of-10s.pdf",
+      "fullPackPages": [
+        23,
+        24
+      ],
+      "pageCount": 2,
+      "tags": [
+        "burns",
+        "fluid",
+        "rule of 10s",
+        "TBSA",
+        "resuscitation"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "head-injuries",
+      "title": "Head Injuries",
+      "category": "Trauma",
+      "section": "core-protocols",
+      "file": "docs/trauma/head-injuries.pdf",
+      "fullPackPages": [
+        26,
+        27
+      ],
+      "pageCount": 2,
+      "tags": [
+        "head injury",
+        "TBI",
+        "GCS",
+        "ICP",
+        "pupils",
+        "neuro",
+        "trauma"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "crush-injuries",
+      "title": "Crush Injuries",
+      "category": "Trauma",
+      "section": "core-protocols",
+      "file": "docs/trauma/crush-injuries.pdf",
+      "fullPackPages": [
+        28,
+        29
+      ],
+      "pageCount": 2,
+      "tags": [
+        "crush",
+        "rhabdomyolysis",
+        "hyperkalaemia",
+        "entrapment",
+        "limb",
+        "trauma"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "advanced-airway-management-surgical-airway",
+      "title": "Advanced Airway Management / Surgical Airway",
+      "category": "Airway / Breathing",
+      "section": "core-protocols",
+      "file": "docs/airway-breathing/advanced-airway-management-surgical-airway.pdf",
+      "fullPackPages": [
+        14,
+        15
+      ],
+      "pageCount": 2,
+      "tags": [
+        "airway",
+        "advanced airway",
+        "SAD",
+        "iGel",
+        "OPA",
+        "NPA",
+        "CICO",
+        "surgical airway",
+        "cricothyroidotomy",
+        "EtCO2"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "maxillofacial-injuries",
+      "title": "Maxillofacial Injuries",
+      "category": "Airway / Breathing",
+      "section": "core-protocols",
+      "file": "docs/airway-breathing/maxillofacial-injuries.pdf",
+      "fullPackPages": [
+        16,
+        17
+      ],
+      "pageCount": 2,
+      "tags": [
+        "maxillofacial",
+        "face",
+        "facial injury",
+        "airway",
+        "bleeding",
+        "haemorrhage"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "traumatic-chest-injuries",
+      "title": "Traumatic Chest Injuries",
+      "category": "Airway / Breathing",
+      "section": "core-protocols",
+      "file": "docs/airway-breathing/traumatic-chest-injuries.pdf",
+      "fullPackPages": [
+        18,
+        19
+      ],
+      "pageCount": 2,
+      "tags": [
+        "chest injury",
+        "pneumothorax",
+        "tension pneumothorax",
+        "needle decompression",
+        "thoracostomy",
+        "chest seal"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "hypoxia",
+      "title": "Hypoxia",
+      "category": "Medical Emergency",
+      "section": "medical-emergency-inserts",
+      "file": "docs/medical-emergencies/hypoxia.pdf",
+      "fullPackPages": [
+        63
+      ],
+      "pageCount": 1,
+      "tags": [
+        "hypoxia",
+        "oxygen",
+        "SpO2",
+        "respiratory",
+        "shortness of breath"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "asthma",
+      "title": "Asthma",
+      "category": "Medical Emergency",
+      "section": "medical-emergency-inserts",
+      "file": "docs/medical-emergencies/asthma.pdf",
+      "fullPackPages": [
+        64
+      ],
+      "pageCount": 1,
+      "tags": [
+        "asthma",
+        "wheeze",
+        "shortness of breath",
+        "salbutamol",
+        "PEFR",
+        "hypoxia"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "telemedicine-voice-procedure",
+      "title": "Telemedicine Voice Procedure",
+      "category": "Handover / Reachback",
+      "section": "core-protocols",
+      "file": "docs/handover-reachback/telemedicine-voice-procedure.pdf",
+      "fullPackPages": [
+        31
+      ],
+      "pageCount": 1,
+      "tags": [
+        "telemedicine",
+        "reachback",
+        "remote support",
+        "voice procedure",
+        "handover",
+        "ATMIST"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "pain-management-protocol",
+      "title": "Pain Management Protocol",
+      "category": "Procedures / Drugs",
+      "section": "core-protocols",
+      "file": "docs/procedures-drugs/pain-management-protocol.pdf",
+      "fullPackPages": [
+        32
+      ],
+      "pageCount": 1,
+      "tags": [
+        "pain",
+        "pain ladder",
+        "analgesia",
+        "paracetamol",
+        "NSAID",
+        "opioid"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "advanced-analgesia-protocol",
+      "title": "Advanced Analgesia Protocol",
+      "category": "Procedures / Drugs",
+      "section": "core-protocols",
+      "file": "docs/procedures-drugs/advanced-analgesia-protocol.pdf",
+      "fullPackPages": [
+        33,
+        34,
+        35
+      ],
+      "pageCount": 3,
+      "tags": [
+        "advanced analgesia",
+        "fentanyl",
+        "ketamine",
+        "penthrox",
+        "morphine",
+        "sedation",
+        "pain"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "procedural-sedation",
+      "title": "Procedural Sedation",
+      "category": "Procedures / Drugs",
+      "section": "core-protocols",
+      "file": "docs/procedures-drugs/procedural-sedation.pdf",
+      "fullPackPages": [
+        36
+      ],
+      "pageCount": 1,
+      "tags": [
+        "procedural sedation",
+        "sedation",
+        "ketamine",
+        "monitoring",
+        "airway"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "tube-thoracostomy",
+      "title": "Tube Thoracostomy",
+      "category": "Procedures",
+      "section": "core-protocols",
+      "file": "docs/procedures/tube-thoracostomy.pdf",
+      "fullPackPages": [
+        37
+      ],
+      "pageCount": 1,
+      "tags": [
+        "thoracostomy",
+        "chest drain",
+        "pneumothorax",
+        "haemothorax",
+        "chest injury"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "resuscitative-thoracotomy",
+      "title": "Resuscitative Thoracotomy",
+      "category": "Procedures",
+      "section": "core-protocols",
+      "file": "docs/procedures/resuscitative-thoracotomy.pdf",
+      "fullPackPages": [
+        38
+      ],
+      "pageCount": 1,
+      "tags": [
+        "resuscitative thoracotomy",
+        "thoracotomy",
+        "TCA",
+        "tamponade",
+        "aortic compression"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "escharotomy",
+      "title": "Escharotomy",
+      "category": "Procedures",
+      "section": "core-protocols",
+      "file": "docs/procedures/escharotomy.pdf",
+      "fullPackPages": [
+        39
+      ],
+      "pageCount": 1,
+      "tags": [
+        "escharotomy",
+        "burns",
+        "compartment",
+        "circumferential burns"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "adult-advanced-life-support",
+      "title": "Adult Advanced Life Support",
+      "category": "Medical Emergency",
+      "section": "core-protocols",
+      "file": "docs/medical-emergencies/adult-advanced-life-support.pdf",
+      "fullPackPages": [
+        41
+      ],
+      "pageCount": 1,
+      "tags": [
+        "ALS",
+        "adult life support",
+        "cardiac arrest",
+        "CPR",
+        "defibrillation"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "adult-tachyarrhythmia",
+      "title": "Adult Tachyarrhythmia",
+      "category": "Medical Emergency",
+      "section": "core-protocols",
+      "file": "docs/medical-emergencies/adult-tachyarrhythmia.pdf",
+      "fullPackPages": [
+        42
+      ],
+      "pageCount": 1,
+      "tags": [
+        "tachyarrhythmia",
+        "tachycardia",
+        "SVT",
+        "VT",
+        "AF",
+        "ECG",
+        "cardiac"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "adult-bradyarrhythmia",
+      "title": "Adult Bradyarrhythmia",
+      "category": "Medical Emergency",
+      "section": "core-protocols",
+      "file": "docs/medical-emergencies/adult-bradyarrhythmia.pdf",
+      "fullPackPages": [
+        43
+      ],
+      "pageCount": 1,
+      "tags": [
+        "bradyarrhythmia",
+        "bradycardia",
+        "ECG",
+        "cardiac"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "adult-anaphylaxis-guidelines",
+      "title": "Adult Anaphylaxis Guidelines",
+      "category": "Medical Emergency",
+      "section": "core-protocols",
+      "file": "docs/medical-emergencies/adult-anaphylaxis-guidelines.pdf",
+      "fullPackPages": [
+        44,
+        45
+      ],
+      "pageCount": 2,
+      "tags": [
+        "anaphylaxis",
+        "allergy",
+        "adrenaline",
+        "shock",
+        "airway"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "adult-choking-guidelines",
+      "title": "Adult Choking Guidelines",
+      "category": "Medical Emergency",
+      "section": "core-protocols",
+      "file": "docs/medical-emergencies/adult-choking-guidelines.pdf",
+      "fullPackPages": [
+        46
+      ],
+      "pageCount": 1,
+      "tags": [
+        "choking",
+        "airway obstruction",
+        "foreign body",
+        "BLS"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "paediatric-advanced-life-support",
+      "title": "Paediatric Advanced Life Support",
+      "category": "Medical Emergency",
+      "section": "core-protocols",
+      "file": "docs/medical-emergencies/paediatric-advanced-life-support.pdf",
+      "fullPackPages": [
+        47
+      ],
+      "pageCount": 1,
+      "tags": [
+        "paediatric",
+        "child",
+        "PALS",
+        "cardiac arrest"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "newborn-life-support",
+      "title": "Newborn Life Support",
+      "category": "Medical Emergency",
+      "section": "core-protocols",
+      "file": "docs/medical-emergencies/newborn-life-support.pdf",
+      "fullPackPages": [
+        48
+      ],
+      "pageCount": 1,
+      "tags": [
+        "newborn",
+        "neonatal",
+        "life support",
+        "resuscitation"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "paediatric-choking-guidelines",
+      "title": "Paediatric Choking Guidelines",
+      "category": "Medical Emergency",
+      "section": "core-protocols",
+      "file": "docs/medical-emergencies/paediatric-choking-guidelines.pdf",
+      "fullPackPages": [
+        49
+      ],
+      "pageCount": 1,
+      "tags": [
+        "paediatric",
+        "choking",
+        "foreign body",
+        "airway obstruction"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "sepsis-prehospital-guidelines",
+      "title": "Sepsis Prehospital Guidelines",
+      "category": "Medical Emergency",
+      "section": "core-protocols",
+      "file": "docs/medical-emergencies/sepsis-prehospital-guidelines.pdf",
+      "fullPackPages": [
+        50
+      ],
+      "pageCount": 1,
+      "tags": [
+        "sepsis",
+        "infection",
+        "shock",
+        "NEWS",
+        "antibiotics",
+        "deterioration"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "cardiovascular-emergencies",
+      "title": "Cardiovascular Emergencies",
+      "category": "Medical Emergency",
+      "section": "core-protocols",
+      "file": "docs/medical-emergencies/cardiovascular-emergencies.pdf",
+      "fullPackPages": [
+        51,
+        52
+      ],
+      "pageCount": 2,
+      "tags": [
+        "cardiovascular",
+        "chest pain",
+        "MI",
+        "STEMI",
+        "ACS",
+        "cardiac"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "heat-illness",
+      "title": "Heat Illness",
+      "category": "Environmental / FHP",
+      "section": "core-protocols",
+      "file": "docs/environmental-fhp/heat-illness.pdf",
+      "fullPackPages": [
+        53,
+        54
+      ],
+      "pageCount": 2,
+      "tags": [
+        "heat illness",
+        "heat stroke",
+        "heat exhaustion",
+        "cooling",
+        "hyperthermia"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "hypothermia-management",
+      "title": "Hypothermia Management",
+      "category": "Environmental / FHP",
+      "section": "core-protocols",
+      "file": "docs/environmental-fhp/hypothermia-management.pdf",
+      "fullPackPages": [
+        55,
+        56
+      ],
+      "pageCount": 2,
+      "tags": [
+        "hypothermia",
+        "cold injury",
+        "rewarming",
+        "temperature",
+        "exposure"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "envenomation",
+      "title": "Envenomation",
+      "category": "Environmental / FHP",
+      "section": "core-protocols",
+      "file": "docs/environmental-fhp/envenomation.pdf",
+      "fullPackPages": [
+        57,
+        58
+      ],
+      "pageCount": 2,
+      "tags": [
+        "envenomation",
+        "snake",
+        "scorpion",
+        "bite",
+        "sting",
+        "venom"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "poisoning-toxic-injuries-cbrn-triggers",
+      "title": "Poisoning / Toxic Injuries / CBRN Triggers",
+      "category": "Environmental / FHP",
+      "section": "core-protocols",
+      "file": "docs/environmental-fhp/poisoning-toxic-injuries-cbrn-triggers.pdf",
+      "fullPackPages": [
+        59,
+        60
+      ],
+      "pageCount": 2,
+      "tags": [
+        "poisoning",
+        "toxic",
+        "CBRN",
+        "chemical",
+        "toxidrome",
+        "decontamination",
+        "unexplained casualties"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "assessing-medically-unwell-patient",
+      "title": "Assessing the Medically Unwell Patient",
+      "category": "Medical Emergency",
+      "section": "medical-emergency-inserts",
+      "file": "docs/medical-emergencies/assessing-medically-unwell-patient.pdf",
+      "fullPackPages": [
+        62
+      ],
+      "pageCount": 1,
+      "tags": [
+        "ABCDE",
+        "unwell patient",
+        "deterioration",
+        "observations",
+        "triage"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "chest-pain-insert",
+      "title": "Chest Pain Insert",
+      "category": "Medical Emergency",
+      "section": "medical-emergency-inserts",
+      "file": "docs/medical-emergencies/chest-pain-insert.pdf",
+      "fullPackPages": [
+        65
+      ],
+      "pageCount": 1,
+      "tags": [
+        "chest pain",
+        "ACS",
+        "MI",
+        "STEMI",
+        "ECG",
+        "cardiac"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "massive-gi-bleed",
+      "title": "Massive GI Bleed",
+      "category": "Medical Emergency",
+      "section": "medical-emergency-inserts",
+      "file": "docs/medical-emergencies/massive-gi-bleed.pdf",
+      "fullPackPages": [
+        66
+      ],
+      "pageCount": 1,
+      "tags": [
+        "GI bleed",
+        "gastrointestinal bleed",
+        "haematemesis",
+        "melaena",
+        "shock",
+        "bleeding"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "seizures",
+      "title": "Seizures",
+      "category": "Medical Emergency",
+      "section": "medical-emergency-inserts",
+      "file": "docs/medical-emergencies/seizures.pdf",
+      "fullPackPages": [
+        67
+      ],
+      "pageCount": 1,
+      "tags": [
+        "seizure",
+        "fits",
+        "convulsion",
+        "status epilepticus",
+        "benzodiazepine"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "hypoglycaemia",
+      "title": "Hypoglycaemia",
+      "category": "Medical Emergency",
+      "section": "medical-emergency-inserts",
+      "file": "docs/medical-emergencies/hypoglycaemia.pdf",
+      "fullPackPages": [
+        68
+      ],
+      "pageCount": 1,
+      "tags": [
+        "hypoglycaemia",
+        "low glucose",
+        "diabetes",
+        "BM",
+        "collapse",
+        "confusion"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "kidney-stones",
+      "title": "Kidney Stones",
+      "category": "Medical Emergency",
+      "section": "medical-emergency-inserts",
+      "file": "docs/medical-emergencies/kidney-stones.pdf",
+      "fullPackPages": [
+        69
+      ],
+      "pageCount": 1,
+      "tags": [
+        "kidney stones",
+        "renal colic",
+        "flank pain",
+        "haematuria"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "fentanyl",
+      "title": "Fentanyl",
+      "category": "Important Drugs",
+      "section": "important-drugs",
+      "file": "docs/important-drugs/fentanyl.pdf",
+      "fullPackPages": [
+        71
+      ],
+      "pageCount": 1,
+      "tags": [
+        "fentanyl",
+        "opioid",
+        "lozenge",
+        "analgesia",
+        "pain"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "ketamine",
+      "title": "Ketamine",
+      "category": "Important Drugs",
+      "section": "important-drugs",
+      "file": "docs/important-drugs/ketamine.pdf",
+      "fullPackPages": [
+        72
+      ],
+      "pageCount": 1,
+      "tags": [
+        "ketamine",
+        "analgesia",
+        "sedation",
+        "dissociation",
+        "pain"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "penthrox",
+      "title": "Penthrox",
+      "category": "Important Drugs",
+      "section": "important-drugs",
+      "file": "docs/important-drugs/penthrox.pdf",
+      "fullPackPages": [
+        73
+      ],
+      "pageCount": 1,
+      "tags": [
+        "penthrox",
+        "methoxyflurane",
+        "analgesia",
+        "pain"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "co-amoxiclav",
+      "title": "Co-amoxiclav",
+      "category": "Important Drugs",
+      "section": "important-drugs",
+      "file": "docs/important-drugs/co-amoxiclav.pdf",
+      "fullPackPages": [
+        74
+      ],
+      "pageCount": 1,
+      "tags": [
+        "co-amoxiclav",
+        "antibiotic",
+        "infection",
+        "wound",
+        "bite"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "clindamycin",
+      "title": "Clindamycin",
+      "category": "Important Drugs",
+      "section": "important-drugs",
+      "file": "docs/important-drugs/clindamycin.pdf",
+      "fullPackPages": [
+        75
+      ],
+      "pageCount": 1,
+      "tags": [
+        "clindamycin",
+        "antibiotic",
+        "infection",
+        "allergy"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "ceftriaxone",
+      "title": "Ceftriaxone",
+      "category": "Important Drugs",
+      "section": "important-drugs",
+      "file": "docs/important-drugs/ceftriaxone.pdf",
+      "fullPackPages": [
+        76
+      ],
+      "pageCount": 1,
+      "tags": [
+        "ceftriaxone",
+        "antibiotic",
+        "sepsis",
+        "infection"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "ondansetron",
+      "title": "Ondansetron",
+      "category": "Important Drugs",
+      "section": "important-drugs",
+      "file": "docs/important-drugs/ondansetron.pdf",
+      "fullPackPages": [
+        77
+      ],
+      "pageCount": 1,
+      "tags": [
+        "ondansetron",
+        "antiemetic",
+        "nausea",
+        "vomiting"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "tranexamic-acid",
+      "title": "Tranexamic Acid",
+      "category": "Important Drugs",
+      "section": "important-drugs",
+      "file": "docs/important-drugs/tranexamic-acid.pdf",
+      "fullPackPages": [
+        78
+      ],
+      "pageCount": 1,
+      "tags": [
+        "tranexamic acid",
+        "TXA",
+        "bleeding",
+        "haemorrhage",
+        "trauma"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "naloxone",
+      "title": "Naloxone",
+      "category": "Important Drugs",
+      "section": "important-drugs",
+      "file": "docs/important-drugs/naloxone.pdf",
+      "fullPackPages": [
+        79
+      ],
+      "pageCount": 1,
+      "tags": [
+        "naloxone",
+        "opioid",
+        "overdose",
+        "respiratory depression"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "drug-notes",
+      "title": "Drug Notes",
+      "category": "Important Drugs",
+      "section": "important-drugs",
+      "file": "docs/important-drugs/drug-notes.pdf",
+      "fullPackPages": [
+        80
+      ],
+      "pageCount": 1,
+      "tags": [
+        "drug notes",
+        "medications",
+        "cautions"
+      ],
+      "commonlyUsed": false,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "nine-line-medevac",
+      "title": "9-Line MEDEVAC",
+      "category": "Handover / Evac",
+      "section": "handover-evacuation-triage",
+      "file": "docs/handover-evacuation-triage/nine-line-medevac.pdf",
+      "fullPackPages": [
+        82
+      ],
+      "pageCount": 1,
+      "tags": [
+        "9-line",
+        "nine line",
+        "MEDEVAC",
+        "casualty evacuation",
+        "evacuation"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "mist-at-report",
+      "title": "MIST(AT) Report",
+      "category": "Handover / Evac",
+      "section": "handover-evacuation-triage",
+      "file": "docs/handover-evacuation-triage/mist-at-report.pdf",
+      "fullPackPages": [
+        83
+      ],
+      "pageCount": 1,
+      "tags": [
+        "MIST",
+        "MISTAT",
+        "ATMIST",
+        "handover",
+        "mechanism",
+        "injuries",
+        "signs",
+        "treatment",
+        "age",
+        "time"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "m-ethane-report",
+      "title": "M/ETHANE Report",
+      "category": "Handover / Evac",
+      "section": "handover-evacuation-triage",
+      "file": "docs/handover-evacuation-triage/m-ethane-report.pdf",
+      "fullPackPages": [
+        84
+      ],
+      "pageCount": 1,
+      "tags": [
+        "METHANE",
+        "ETHANE",
+        "incident report",
+        "major incident",
+        "handover"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "ten-second-triage",
+      "title": "Ten Second Triage",
+      "category": "Triage",
+      "section": "handover-evacuation-triage",
+      "file": "docs/handover-evacuation-triage/ten-second-triage.pdf",
+      "fullPackPages": [
+        85
+      ],
+      "pageCount": 1,
+      "tags": [
+        "ten second triage",
+        "TST",
+        "triage",
+        "major incident",
+        "casualty sorting"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    },
+    {
+      "id": "major-incident-triage-tool",
+      "title": "Major Incident Triage Tool",
+      "category": "Triage",
+      "section": "handover-evacuation-triage",
+      "file": "docs/handover-evacuation-triage/major-incident-triage-tool.pdf",
+      "fullPackPages": [
+        86
+      ],
+      "pageCount": 1,
+      "tags": [
+        "major incident triage tool",
+        "MITT",
+        "triage",
+        "major incident",
+        "casualty sorting"
+      ],
+      "commonlyUsed": true,
+      "version": "v0.5",
+      "lastUpdated": "2026-06-12",
+      "status": "draft - requires clinical verification",
+      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
+      "notes": "Individual replaceable PDF extracted without changing page content."
+    }
+  ]
+}

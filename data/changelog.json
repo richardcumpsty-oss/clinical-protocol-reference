@@ -1,0 +1,15 @@
+{
+  "version": "v0.5",
+  "entries": [
+    {
+      "version": "v0.5",
+      "date": "2026-06-12",
+      "change": "Split app-ready PDF into individual replaceable protocol PDFs and created protocol-index.json to drive the PWA."
+    },
+    {
+      "version": "v0.4",
+      "date": "2026-06-12",
+      "change": "Sanitised generated cover/section titles and created app-ready pack."
+    }
+  ]
+}
