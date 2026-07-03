@@ -1,10 +1,11 @@
 {
   "metadata": {
     "title": "Clinical Protocol Reference - Individual Protocol Pack",
-    "version": "v0.5",
+    "version": "v0.6-drug-link-fix",
     "lastUpdated": "2026-06-12",
     "description": "One protocol card = one replaceable PDF file. Built for a PWA viewer where individual protocols can be replaced without rebuilding the whole pack.",
-    "safetyNotice": "Reference only. Use within training, authorisation and supervision. Does not replace clinical judgement, source protocols, reachback, local policy, command direction or evacuation."
+    "safetyNotice": "Reference only. Use within training, authorisation and supervision. Does not replace clinical judgement, source protocols, reachback, local policy, command direction or evacuation.",
+    "notes": "Corrects important-drug individual PDF mappings; removes Drug Notes entry because no matching drug-notes PDF exists in source pack."
   },
   "entries": [
     {
@@ -1161,7 +1162,7 @@
       "lastUpdated": "2026-06-12",
       "status": "draft - requires clinical verification",
       "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
-      "notes": "Individual replaceable PDF extracted without changing page content."
+      "notes": "Corrected drug PDF/page mapping in v0.6 QA fix."
     },
     {
       "id": "ketamine",
@@ -1185,7 +1186,7 @@
       "lastUpdated": "2026-06-12",
       "status": "draft - requires clinical verification",
       "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
-      "notes": "Individual replaceable PDF extracted without changing page content."
+      "notes": "Corrected drug PDF/page mapping in v0.6 QA fix."
     },
     {
       "id": "penthrox",
@@ -1194,9 +1195,10 @@
       "section": "important-drugs",
       "file": "docs/important-drugs/penthrox.pdf",
       "fullPackPages": [
-        73
+        73,
+        74
       ],
-      "pageCount": 1,
+      "pageCount": 2,
       "tags": [
         "penthrox",
         "methoxyflurane",
@@ -1208,7 +1210,7 @@
       "lastUpdated": "2026-06-12",
       "status": "draft - requires clinical verification",
       "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
-      "notes": "Individual replaceable PDF extracted without changing page content."
+      "notes": "Corrected drug PDF/page mapping in v0.6 QA fix."
     },
     {
       "id": "co-amoxiclav",
@@ -1217,7 +1219,7 @@
       "section": "important-drugs",
       "file": "docs/important-drugs/co-amoxiclav.pdf",
       "fullPackPages": [
-        74
+        75
       ],
       "pageCount": 1,
       "tags": [
@@ -1232,7 +1234,7 @@
       "lastUpdated": "2026-06-12",
       "status": "draft - requires clinical verification",
       "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
-      "notes": "Individual replaceable PDF extracted without changing page content."
+      "notes": "Corrected drug PDF/page mapping in v0.6 QA fix."
     },
     {
       "id": "clindamycin",
@@ -1241,7 +1243,7 @@
       "section": "important-drugs",
       "file": "docs/important-drugs/clindamycin.pdf",
       "fullPackPages": [
-        75
+        76
       ],
       "pageCount": 1,
       "tags": [
@@ -1255,7 +1257,7 @@
       "lastUpdated": "2026-06-12",
       "status": "draft - requires clinical verification",
       "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
-      "notes": "Individual replaceable PDF extracted without changing page content."
+      "notes": "Corrected drug PDF/page mapping in v0.6 QA fix."
     },
     {
       "id": "ceftriaxone",
@@ -1264,7 +1266,7 @@
       "section": "important-drugs",
       "file": "docs/important-drugs/ceftriaxone.pdf",
       "fullPackPages": [
-        76
+        77
       ],
       "pageCount": 1,
       "tags": [
@@ -1278,7 +1280,7 @@
       "lastUpdated": "2026-06-12",
       "status": "draft - requires clinical verification",
       "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
-      "notes": "Individual replaceable PDF extracted without changing page content."
+      "notes": "Corrected drug PDF/page mapping in v0.6 QA fix."
     },
     {
       "id": "ondansetron",
@@ -1287,7 +1289,7 @@
       "section": "important-drugs",
       "file": "docs/important-drugs/ondansetron.pdf",
       "fullPackPages": [
-        77
+        79
       ],
       "pageCount": 1,
       "tags": [
@@ -1301,7 +1303,7 @@
       "lastUpdated": "2026-06-12",
       "status": "draft - requires clinical verification",
       "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
-      "notes": "Individual replaceable PDF extracted without changing page content."
+      "notes": "Corrected drug PDF/page mapping in v0.6 QA fix."
     },
     {
       "id": "tranexamic-acid",
@@ -1310,7 +1312,7 @@
       "section": "important-drugs",
       "file": "docs/important-drugs/tranexamic-acid.pdf",
       "fullPackPages": [
-        78
+        80
       ],
       "pageCount": 1,
       "tags": [
@@ -1325,7 +1327,7 @@
       "lastUpdated": "2026-06-12",
       "status": "draft - requires clinical verification",
       "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
-      "notes": "Individual replaceable PDF extracted without changing page content."
+      "notes": "Corrected drug PDF/page mapping in v0.6 QA fix."
     },
     {
       "id": "naloxone",
@@ -1334,7 +1336,7 @@
       "section": "important-drugs",
       "file": "docs/important-drugs/naloxone.pdf",
       "fullPackPages": [
-        79
+        78
       ],
       "pageCount": 1,
       "tags": [
@@ -1348,29 +1350,7 @@
       "lastUpdated": "2026-06-12",
       "status": "draft - requires clinical verification",
       "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
-      "notes": "Individual replaceable PDF extracted without changing page content."
-    },
-    {
-      "id": "drug-notes",
-      "title": "Drug Notes",
-      "category": "Important Drugs",
-      "section": "important-drugs",
-      "file": "docs/important-drugs/drug-notes.pdf",
-      "fullPackPages": [
-        80
-      ],
-      "pageCount": 1,
-      "tags": [
-        "drug notes",
-        "medications",
-        "cautions"
-      ],
-      "commonlyUsed": false,
-      "version": "v0.5",
-      "lastUpdated": "2026-06-12",
-      "status": "draft - requires clinical verification",
-      "source": "Original PDF page extract from Clinical Protocol Reference Pack v0.4",
-      "notes": "Individual replaceable PDF extracted without changing page content."
+      "notes": "Corrected drug PDF/page mapping in v0.6 QA fix."
     },
     {
       "id": "nine-line-medevac",
